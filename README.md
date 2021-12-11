@@ -48,11 +48,11 @@ O propósito deste projeto é obter insights através da análise de dados para 
 
 **1.4.3. Recomendações de Compra e Venda:** elaboração de um relatório recomendando a compra e venda de imóveis que atendem as condições especificadas pelo time de negócio. O objetivo é descobrir imóveis em boas condições, precificados abaixo do preço de mercado para imóveis com mesmos código postal, condição e mês do ano.
 
-O relatório pode ser acessado aqui: [houses_sold.csv](https://github.com/joaomj/House-Rocket-Analytics/blob/main/houses_sold.csv)
+O relatório pode ser acessado aqui: [houses_sold.csv](https://github.com/joaomj/House-Rocket-Analytics/blob/master/houses_sold.csv)
 
 **1.4.4. Resultado Financeiro das Recomendações:** foi elaborada uma tabela contabilizando o resultado financeiro para a empresa caso as recomendações fossem seguidas.
 
-O resultado financeiro pode ser acessado aqui: [financial_result.csv](https://github.com/joaomj/House-Rocket-Analytics/blob/main/financial_result.csv)
+O resultado financeiro pode ser acessado aqui: [financial_result.csv](https://github.com/joaomj/House-Rocket-Analytics/blob/master/financial_result.csv)
 
 **1.4.5. Mapa das Recomendações:** construímos um mapa que exibe cada imóvel comprado ou vendido pela House Rocket com base nas recomendações acima obtidas. O mapa permite visualizar o desconto dos imóveis em relação ao preço de mercado, além do lucro obtido com a venda de cada imóvel.
 
@@ -66,9 +66,9 @@ O resultado financeiro pode ser acessado aqui: [financial_result.csv](https://gi
 
 
 ## 3. Instalação
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+*What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Proceed to describe how to install / setup one's local environment / get started with the project.*
 
 
 ## 4. Utilização
