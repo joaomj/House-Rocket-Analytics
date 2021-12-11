@@ -68,7 +68,7 @@ O resultado financeiro pode ser acessado aqui: [financial_result.csv](https://gi
 ## 3. Instalação
 *What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.*
+Proceed to describe how to install / setup one's local environment / get started with the project..*
 
 
 ## 4. Utilização
