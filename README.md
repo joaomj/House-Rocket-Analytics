@@ -65,33 +65,27 @@ O resultado financeiro pode ser acessado aqui: [financial_result.csv](https://gi
 - Heroku Cloud
 
 
-## 3. Instalação
-*What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project..*
-
-
-## 4. Utilização
+## 3. Utilização
 A análise dos dados pode ser acessada pela aplicação em nuvem desenvolvida neste projeto, disponível aqui: [House Rocket App](https://house-rocket-analytics-joaomj.herokuapp.com/)  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-## 5. Status do Projeto
+## 4. Status do Projeto
 O projeto está **em progresso.** Melhorias serão implementadas nas próximas versões.
 
 
-## 6. Melhorias Sugeridas
+## 5. Melhorias Sugeridas
 - Formatação dos números para exibir apenas 02 casas decimais.
 - Filtros de imóveis por atributo para exibição no mapa.
 - Adicionar o endereço detalhado de cada imóvel (logradouro, número, bairro, cidade e estado).
 - Mapa de densidade de imóveis por: preço de mercado, desconto e lucro obtido.
 
 
-## 7. Agradecimentos
+## 6. Agradecimentos
 Este projeto é um exercício do curso *Python: do zero ao Data Scientist*, ministrado pelo [Meigarom Lopes](https://www.linkedin.com/in/meigarom/).
 
 
-## 8. Contato
+## 7. Contato
 Projeto criado por Joao Marcos Visotaky Junior
 
 Data Scientist em formação
